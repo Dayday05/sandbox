@@ -1,0 +1,27 @@
+package com.socgen.helloworld;
+
+public class Calculator {
+    private double a;
+    private double b;
+}
+
+public Calculator(double a, double b) {
+    this.a = a;
+    this.b = b;
+}
+
+public double add() {
+    return this.a + this.b;
+}
+
+public double substract() {
+    this.a - this.b;
+}
+
+public double divide() {
+    this.a / this.b;
+}
+
+public double multiply() {
+    this.a * this.b;
+}

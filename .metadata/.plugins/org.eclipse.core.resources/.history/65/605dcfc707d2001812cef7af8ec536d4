@@ -1,0 +1,11 @@
+package com.socgen.javabasics;
+
+public class Strings {
+
+    public static void main(String[] args) {
+	String str = new String();
+	System.out.println(str);
+
+    }
+
+}

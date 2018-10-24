@@ -1,0 +1,10 @@
+package com.socgen.javabasics;
+
+public class Loop {
+
+//    Permet de parcourir un ensemble d'éléments
+//    for : (initialisation; terminaison; itération) for(i = 0; i < 10; i++)
+    public static void main(String[] args) {
+	int[] = new int[10];
+    }
+}
