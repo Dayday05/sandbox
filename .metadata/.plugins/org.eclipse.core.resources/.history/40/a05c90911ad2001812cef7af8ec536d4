@@ -1,8 +1,0 @@
-package com.socgen.javabasics;
-
-public class Loop {
-    
-//    Permet de parcourir un ensemble d'éléments
-//    for -> for(i = 0; i < 10; i++)
-
-}
