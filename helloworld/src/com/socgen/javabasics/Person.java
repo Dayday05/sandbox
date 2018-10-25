@@ -7,12 +7,6 @@ public class Person {
 
     private int age;
 
-    public Person(String firstname, String lastname) {
-	this.firstname = firstname;
-	this.lastname = lastname;
-
-    }
-
     public Person(String firstname, String lastname, int age) {
 	this.firstname = firstname;
 	this.lastname = lastname;
@@ -24,11 +18,11 @@ public class Person {
     }
 
     public String getLastname() {
-	return lastname;
+	return this.lastname;
     }
 
     public int getAge() {
-	return age;
+	return this.age;
     }
 
     @Override
